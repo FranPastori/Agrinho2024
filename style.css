@@ -11,5 +11,14 @@ header{
     padding: 20px;
 }
 
+.cabecalho_menuitem{
+
+    display: inline;/*coloca os elementos em linha*/
+    text-transform: uppercase;/*deixa todas as Letras maiúsculas*/
+    margin-left: 20px;/*coloca uma margin a esquerda de 20px */
+
+
+}
+
 
 
