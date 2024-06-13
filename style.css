@@ -8,7 +8,7 @@ header{
     display: flex;
     background-color: rgb(210, 146, 205);/*muda cor de fundo*/
     justify-content: space-between;/*coloca um elemento de cada ponta do cabeçalho*/
-
+    padding: 20px;
 }
 
 
