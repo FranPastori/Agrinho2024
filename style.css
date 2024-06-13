@@ -1,0 +1,14 @@
+body{
+
+    background-color: gray;/*muda cor de fundo*/
+
+}
+
+header{
+    display: flex;
+    background-color: rgb(210, 146, 205);/*muda cor de fundo*/
+
+}
+
+
+
